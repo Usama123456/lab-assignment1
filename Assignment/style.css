@@ -1,0 +1,22 @@
+div {
+    margin: 160px auto 160px auto;
+    width: 760px;
+    height: 470px;
+    border: solid black;
+}
+
+img {
+    margin-top: 5px;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-left: auto;
+    width: 90%;
+    padding-left: 40px;
+    padding-right: 30px;
+    height: 30%;
+}
+
+h3 {
+    color: #ff0000;
+    margin-top: 0; 
+}
