@@ -3,12 +3,13 @@ div {
     width: 760px;
     height: 470px;
     border: solid black;
+    background: #ffffff;
 }
 
-img {
+#img {
     margin-top: 5px;
     margin-right: auto;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
     margin-left: auto;
     width: 90%;
     padding-left: 40px;
@@ -19,4 +20,61 @@ img {
 h3 {
     color: #ff0000;
     margin-top: 0; 
+}
+
+body {
+    background: url(1.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+hr {
+    width: 660px;
+    height: 
+    color: #008000;
+    margin-bottom: 20px;
+}
+.new {
+    display: inline;
+    width: 20px;
+    height: 20px;
+    align-content: right;
+    left: 0px;
+    position: relative; 
+    padding: 0px;
+    margin: 0px;
+}
+.new:hover{
+    width: 22px;
+    height: 22px;
+}
+
+.img {
+    width: 300px;
+    margin-left: 50px;
+}
+.img1 {
+    height: 150px;
+    width: 300px;
+    margin-left: 60px;
+}
+
+.p {
+    text-align: justify;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 440px;
+    left: 410px;
+    display: none;
+    background: rgba(0,0,10 , 0.2)
+   }
+   .img:hover{
+       height: 250px;
+   }
+
+.p1 {
+     text-align: justify;
+    position: absolute;
+    width: 200px;
+    height: 200px;
 }
